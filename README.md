@@ -159,7 +159,7 @@ See the [LICENSE](https://github.com/slagop-Dev/discord-music-bot/blob/main/LICE
 ## 🔗 Connect with Me
 
 - GitHub: [@slagop-Dev](https://github.com/slagop-Dev)
-- Discord: `yourname#1234`
+- Discord: `grim.echo`
 
 ---
 
